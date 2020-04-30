@@ -44,7 +44,9 @@
     "start": "npm run server:prod",
     "test": "mocha -r test/bootstrap.js test/**/*.js",
     "version": "node -p \"require('./package.json').version\"",
-    "webpack": "webpack"
+    "webpack": "webpack",
+    "snyk-protect": "snyk protect",
+    "prepare": "yarn run snyk-protect"
   },
   "dependencies": {
     "@slack/client": "^3.14.0",
@@ -126,7 +128,8 @@
     "webpack": "^3.1.0",
     "webpack-bundle-analyzer": "^2.9.0",
     "webpack-merge": "~4.1.0",
-    "xss": "^0.3.5"
+    "xss": "^0.3.5",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "chai": "^4.1.0",
@@ -151,5 +154,6 @@
     "blanket": {
       "pattern": "./lib/**/*.js"
     }
-  }
+  },
+  "snyk": true
 }
