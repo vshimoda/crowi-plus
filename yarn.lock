@@ -3857,9 +3857,10 @@ mongoose-legacy-pluralize@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/mongoose-legacy-pluralize/-/mongoose-legacy-pluralize-1.0.1.tgz#31ae25db45c30f1448c0f93f52769e903367c701"
 
-mongoose-paginate@5.0.x:
+mongoose-paginate@^5.0.0:
   version "5.0.3"
   resolved "https://registry.yarnpkg.com/mongoose-paginate/-/mongoose-paginate-5.0.3.tgz#d7ae49ed5bf64f1f7af7620ea865b67058c55371"
+  integrity sha1-165J7Vv2Tx9692IOqGW2cFjFU3E=
   dependencies:
     bluebird "3.0.5"
 
@@ -5378,9 +5379,10 @@ retry@^0.9.0:
   version "0.9.0"
   resolved "https://registry.yarnpkg.com/retry/-/retry-0.9.0.tgz#6f697e50a0e4ddc8c8f7fb547a9b60dead43678d"
 
-reveal.js@^3.5.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/reveal.js/-/reveal.js-3.6.0.tgz#ce0e64f30cbebd6e5ce885c2f384085c5e5821e8"
+reveal.js@^4.0.0:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/reveal.js/-/reveal.js-4.0.1.tgz#0ef7f7a4e5707165bf784a57cec58171f6af3550"
+  integrity sha512-RA1fklPgSNCNnQ41XR0bNoaSkXHb8Ji0baQ53HBxgeRlWkb2INVUQShAZfiNK6iI7knKLWGZJ7cs5dh7tvAaXA==
 
 right-align@^0.1.1:
   version "0.1.3"
