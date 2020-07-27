@@ -90,7 +90,7 @@
     "i18next-sprintf-postprocessor": "^0.2.2",
     "inline-attachment": "~2.0.3",
     "jquery.cookie": "~1.4.1",
-    "marked": "^0.3.12",
+    "marked": "^1.1.1",
     "md5": "^2.2.1",
     "method-override": "^2.3.10",
     "mkdirp": "~0.5.1",
