@@ -83,7 +83,7 @@
     "file-loader": "^1.1.0",
     "googleapis": "^24.0.0",
     "graceful-fs": "^4.1.11",
-    "highlight.js": "^9.10.0",
+    "highlight.js": "^9.18.2",
     "i18next": "^10.0.1",
     "i18next-express-middleware": "^1.0.5",
     "i18next-node-fs-backend": "^1.0.0",
