@@ -66,7 +66,7 @@
     "cross-env": "^5.0.5",
     "crowi-pluginkit": "^1.1.0",
     "csrf": "~3.0.3",
-    "css-loader": "^0.28.0",
+    "css-loader": "^1.0.0",
     "date-fns": "^1.29.0",
     "debug": "^3.1.0",
     "diff": "^3.3.0",
