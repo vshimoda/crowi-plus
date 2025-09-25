@@ -3857,9 +3857,10 @@ mongoose-legacy-pluralize@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/mongoose-legacy-pluralize/-/mongoose-legacy-pluralize-1.0.1.tgz#31ae25db45c30f1448c0f93f52769e903367c701"
 
-mongoose-paginate@5.0.x:
+mongoose-paginate@^5.0.0:
   version "5.0.3"
   resolved "https://registry.yarnpkg.com/mongoose-paginate/-/mongoose-paginate-5.0.3.tgz#d7ae49ed5bf64f1f7af7620ea865b67058c55371"
+  integrity sha512-sqrQJJ2nY7z2S5XzrMxbnlnAXpOnqyyM8t/FQ4Rv0uimYyacitmVSZOjlotbiQLI8I4v4hy3dCtJn31+OPl5Wg==
   dependencies:
     bluebird "3.0.5"
 
@@ -4501,9 +4502,10 @@ pinkie@^2.0.0:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/pinkie/-/pinkie-2.0.4.tgz#72556b80cfa0d48a974e80e77248e80ed4f7f870"
 
-pino-clf@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/pino-clf/-/pino-clf-1.0.2.tgz#3e8ffea2f4bd07f794570c2daa1e012c17cff6bb"
+pino-clf@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/pino-clf/-/pino-clf-1.0.6.tgz#6fbc2160ec697a980daba6aedacd07dbdb734a47"
+  integrity sha512-WhJrbENrwfD4/5c3euoZ87fhcPMk771tcUpna6t3KacI2cIJky1Vftx3/08YVeYaGizdvTnMWCSbx/xm5hKj3w==
   dependencies:
     fast-json-parse "^1.0.2"
     minimist "^1.2.0"
