@@ -106,7 +106,7 @@
     "passport": "^0.4.0",
     "passport-ldapauth": "^2.0.0",
     "passport-local": "^1.0.0",
-    "pino-clf": "^1.0.2",
+    "pino-clf": "^1.0.6",
     "plantuml-encoder": "^1.2.4",
     "react": "^16.0.0",
     "react-bootstrap": "^0.32.0",
