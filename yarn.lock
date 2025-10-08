@@ -3857,9 +3857,10 @@ mongoose-legacy-pluralize@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/mongoose-legacy-pluralize/-/mongoose-legacy-pluralize-1.0.1.tgz#31ae25db45c30f1448c0f93f52769e903367c701"
 
-mongoose-paginate@5.0.x:
+mongoose-paginate@^5.0.0:
   version "5.0.3"
   resolved "https://registry.yarnpkg.com/mongoose-paginate/-/mongoose-paginate-5.0.3.tgz#d7ae49ed5bf64f1f7af7620ea865b67058c55371"
+  integrity sha512-sqrQJJ2nY7z2S5XzrMxbnlnAXpOnqyyM8t/FQ4Rv0uimYyacitmVSZOjlotbiQLI8I4v4hy3dCtJn31+OPl5Wg==
   dependencies:
     bluebird "3.0.5"
 
@@ -4105,9 +4106,10 @@ nodemailer-ses-transport@~1.5.0:
   dependencies:
     aws-sdk "^2.2.36"
 
-nodemailer@^4.0.1:
-  version "4.4.1"
-  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-4.4.1.tgz#ce480eb3db7b949b3366e301b8f0af1c1248025e"
+nodemailer@^7.0.7:
+  version "7.0.9"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-7.0.9.tgz#fe5abd4173e08e01aa243c7cddd612ad8c6ccc18"
+  integrity sha512-9/Qm0qXIByEP8lEV2qOqcAW7bRpL8CR9jcTwk3NBnHJNmP9fIJ86g2fgmIXqHY+nj55ZEMwWqYAT2QTDpRUYiQ==
 
 nopt@1.0.10:
   version "1.0.10"
